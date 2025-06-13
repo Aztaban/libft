@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/24 12:19:56 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/28 14:25:48 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:30:53 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_string.h"
 
 size_t	ft_strlcat(char *dst, const char *src, size_t size)
 {

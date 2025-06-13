@@ -6,11 +6,12 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/27 23:23:14 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/27 23:46:02 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:16:08 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include <stdlib.h>
+#include "libft_conversion.h"
 
 static int	count_digits(int n)
 {

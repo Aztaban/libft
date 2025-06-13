@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/22 17:25:44 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/25 17:19:29 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:23:05 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_memory.h"
 
 void	*ft_memset(void *s, int c, size_t n)
 {

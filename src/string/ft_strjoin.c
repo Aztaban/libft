@@ -6,11 +6,12 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/27 18:08:41 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/28 14:57:01 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:30:41 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_string.h"
+#include "libft_memory.h"
 
 char	*ft_strjoin(char const *s1, char const *s2)
 {

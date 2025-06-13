@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/25 18:04:35 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/26 11:39:01 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:31:34 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_string.h"
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)
 {

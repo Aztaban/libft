@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/28 01:42:22 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/28 03:17:42 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:29:44 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_string.h"
 
 static size_t	count_words(const char *s, char c)
 {

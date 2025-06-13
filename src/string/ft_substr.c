@@ -6,11 +6,12 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/27 23:59:10 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/28 11:37:14 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:32:24 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_string.h"
+#include "libft_memory.h"
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {

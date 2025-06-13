@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/26 18:51:46 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/27 17:57:13 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:25:02 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_output.h"
 
 void	ft_putnbr_fd(int n, int fd)
 {

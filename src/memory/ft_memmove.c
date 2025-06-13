@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/23 12:06:15 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/25 17:19:25 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:23:00 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_memory.h"
 
 void	*ft_memmove(void *dest, const void *src, size_t n)
 {

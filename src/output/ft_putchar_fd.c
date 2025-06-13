@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/26 18:24:24 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/26 18:49:08 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:25:13 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_output.h"
 
 void	ft_putchar_fd(char c, int fd)
 {

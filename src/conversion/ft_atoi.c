@@ -6,11 +6,12 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/24 15:46:04 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/25 17:19:01 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:12:46 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_conversion.h"
+#include "libft_char.h"
 
 static int	ft_isspace(int c)
 {

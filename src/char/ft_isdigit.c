@@ -6,11 +6,11 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/21 12:07:55 by mjusta            #+#    #+#             */
-/*   Updated: 2025/05/25 17:19:14 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/06/13 02:05:53 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft_char.h"
 
 int	ft_isdigit(int c)
 {
