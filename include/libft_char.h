@@ -6,7 +6,7 @@
 /*   By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/13 02:03:48 by mjusta            #+#    #+#             */
-/*   Updated: 2025/06/13 02:09:10 by mjusta           ###   ########.fr       */
+/*   Updated: 2025/09/15 22:47:04 by mjusta           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,5 +18,6 @@ int	ft_isalpha(int c);
 int	ft_isascii(int c);
 int	ft_isdigit(int c);
 int	ft_isprint(int c);
+int ft_isspace(int c);
 
 #endif
