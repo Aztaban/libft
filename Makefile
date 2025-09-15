@@ -6,7 +6,7 @@
 #    By: mjusta <mjusta@student.42prague.com>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/05/20 11:21:19 by mjusta            #+#    #+#              #
-#    Updated: 2025/07/28 19:56:01 by mjusta           ###   ########.fr        #
+#    Updated: 2025/09/15 22:11:22 by mjusta           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -30,6 +30,7 @@ SRC = \
 		src/char/ft_isascii.c \
 		src/char/ft_isdigit.c \
 		src/char/ft_isprint.c \
+		src/char/ft_isspace.c \
 		src/conversion/ft_atoi.c \
 		src/conversion/ft_itoa.c \
 		src/conversion/ft_tolower.c \
